@@ -5,6 +5,8 @@ launchers\DIS.BAT - Launch IDA (Interactive Disassembler)
 
 launchers\qemu-launch.bat - Launcher for QEMU
 
+launchers\roadsend-launcher.bat - launcher for Roadsend PHP Studio (Win7).bat
+
 network\admsharesdisable.bat - Disable all admin (hidden) shares (e.g. C$, D$, etc.)
 
 network\auto_net.bat - set automatic network parameters (DHCP)
