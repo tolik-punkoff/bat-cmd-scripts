@@ -18,3 +18,7 @@ network\provider_net.bat - set manual network parameters (Local IP and provider 
 other\all-bat-parameters.bat - write all bat file command line parameters to console
 
 other\zerofile.cmd - create same size file with zero (0x0 char codes) content
+
+wininstall\xpinstall.bat - install Windows XP from Windows XP PE (PXE)
+
+wininstall\win7install.bat - install Windows 7 from Windows 7 PE (PXE)
