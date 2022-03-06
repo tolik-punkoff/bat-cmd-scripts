@@ -25,8 +25,10 @@ if %RES% LEQ 0 (
 	exit /b 2
 )
 
+if "%ED%" EQU "G" goto :gb
 if "%ED%" EQU "K" goto :kb
 if "%ED%" EQU "M" goto :mb
+if "%ED%" EQU "g" goto :gb
 if "%ED%" EQU "k" goto :kb
 if "%ED%" EQU "m" goto :mb
 goto :create
@@ -39,6 +41,11 @@ goto :create
 :mb
 	set /a "RES=FILESIZE*1024*1024"
 	set ST=%FILESIZE% Mb
+	goto :create
+
+:gb
+	set /a "RES=FILESIZE*1024*1024*1024"
+	set ST=%FILESIZE% Mb	
 	
 :create
 	echo Creating file:	%FILENAME%
