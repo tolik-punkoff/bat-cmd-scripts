@@ -1,1 +1,1 @@
-certutil -hashfile %1
+@certutil -hashfile %1

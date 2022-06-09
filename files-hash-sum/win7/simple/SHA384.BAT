@@ -1,1 +1,1 @@
-certutil -hashfile %1 SHA384
+@certutil -hashfile %1 SHA384
