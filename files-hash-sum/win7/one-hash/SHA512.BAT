@@ -1,0 +1,1 @@
+@certutil -hashfile %1 SHA512|awk NR==2|awk "{ gsub(/ /,//); print }"

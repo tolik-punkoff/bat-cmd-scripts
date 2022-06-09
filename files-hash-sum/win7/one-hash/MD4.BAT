@@ -1,0 +1,1 @@
+@certutil -hashfile %1 MD4|awk NR==2|awk "{ gsub(/ /,//); print }"
