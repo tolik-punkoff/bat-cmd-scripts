@@ -1,0 +1,1 @@
+@hash.exe MD5 %1

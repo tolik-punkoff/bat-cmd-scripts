@@ -1,0 +1,1 @@
+@hash.exe SHA256 %1
