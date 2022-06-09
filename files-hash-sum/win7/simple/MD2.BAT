@@ -1,0 +1,1 @@
+certutil -hashfile %1 MD2

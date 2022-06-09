@@ -28,3 +28,5 @@ other\write-to-stderr - Write to STDERR from BAT/CMD file example
 wininstall\xpinstall.bat - install Windows XP from Windows XP PE (PXE)
 
 wininstall\win7install.bat - install Windows 7 from Windows 7 PE (PXE)
+
+files-hash-sum - BAT-files for get file checksums (SHA1, MD5, etc.)
