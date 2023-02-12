@@ -25,6 +25,8 @@ other\checknum.bat - check variable to number of string value
 
 other\write-to-stderr - Write to STDERR from BAT/CMD file example
 
+other\rshred.bat - simple shred helper
+
 wininstall\xpinstall.bat - install Windows XP from Windows XP PE (PXE)
 
 wininstall\win7install.bat - install Windows 7 from Windows 7 PE (PXE)
