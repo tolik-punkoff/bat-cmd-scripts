@@ -1,4 +1,4 @@
 @echo off
-rem Replace C:\for-dos\cd\idaNEW2\ to you path to idaw.exe
+rem Replace C:\your\path\to\idapro\ to you path to idaw.exe
 
-C:\for-dos\cd\idaNEW2\idaw.exe %1
+C:\your\path\to\idapro\idaw.exe %1
