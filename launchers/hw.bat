@@ -1,4 +1,4 @@
 @echo off
-rem Replace C:\FOR-DOS\CD\HW\ to you path to hiew32.exe
+rem Replace C:\YOUR\PATH\TO\HIEW\ to you path to hiew32.exe
 
-C:\FOR-DOS\CD\HW\hiew32.exe %1
+C:\YOUR\PATH\TO\HIEW\hiew32.exe %1
