@@ -1,5 +1,5 @@
 @Echo Off
-:: WARNING! SLOW ALGORITHM FOR STRING LENGTHIN
+:: WARNING! SLOW ALGORITHM FOR GET STRING LENGTH
 SetLocal EnableExtensions EnableDelayedExpansion
 
 Set "String1=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
