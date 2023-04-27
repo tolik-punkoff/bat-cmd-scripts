@@ -34,3 +34,5 @@ wininstall\win7install.bat - install Windows 7 from Windows 7 PE (PXE)
 files-hash-sum - BAT-files for get file checksums (SHA1, MD5, etc.)
 
 randomstrings\strlenslow.bat - get length string in BAT-file (SLOW ALGORITHM)
+
+randomstrings\strlenmain.bat - get length string in BAT-file
