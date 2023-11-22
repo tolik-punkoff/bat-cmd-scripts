@@ -38,3 +38,5 @@ files-hash-sum - BAT-files for get file checksums (SHA1, MD5, etc.)
 randomstrings\strlenslow.bat - get length string in BAT-file (SLOW ALGORITHM)
 
 randomstrings\strlenmain.bat - get length string in BAT-file
+
+rrshred - shred, random renamer and BAT-file helper
